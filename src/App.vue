@@ -25,7 +25,7 @@
         </div>
       </div>
     </div>
-    <nav class="navbar fixed-bottom navbar-dark bg-dark">
+    <nav class="navbar fixed-bottom navbar-dark bg-dark style="background-color: #90CBFB;">
       <div class="container-fluid justify-content-end p-2">
         <span class="text-muted mx-5 d-none d-md-block">©2021 Polityka prywatności | Warunki korzystania z usługi</span>
         <span class="text-light"><i class="bi-heart-fill pe-2"></i>Moje konto</span>
@@ -99,7 +99,7 @@
   }
 
   .cover {
-    background-image: url("./assets/background2.jpg");
+    background-image: url("C:/Users/X240/go_note/2021go/go-note/src/assets/blue.jpg");
     background-position: center;
     background-size: cover;
     height: 30%;
